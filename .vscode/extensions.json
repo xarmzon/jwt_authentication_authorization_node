@@ -1,7 +1,8 @@
 {
-    "recommendations": [
-        "myml.vscode-markdown-plantuml-preview",
-        "esbenp.prettier-vscode",
-        "jebbs.plantuml"
-    ]
+  "recommendations": [
+    "ms-azuretools.vscode-docker",
+    "mikestead.dotenv",
+    "mkloubert.vscode-http-client",
+    "cweijan.vscode-mysql-client2"
+  ]
 }
